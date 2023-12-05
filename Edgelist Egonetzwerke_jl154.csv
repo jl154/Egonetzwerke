@@ -1,0 +1,14 @@
+﻿from;to;weight
+JM;LS;2
+JM;JL;1
+JM;LB;2
+LS;JM;2
+LS;JL;1
+LS;LB;1
+LS;JM;2
+JL;JM;1
+JL;LB;1
+JL;LS;1
+LB;JM;2
+LB;JL;1
+LB;LS;1
